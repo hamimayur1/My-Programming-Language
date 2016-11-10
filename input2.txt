@@ -1,0 +1,30 @@
+begin
+
+integer i,b
+
+integer a
+let a = 10
+let b = 5
+
+if a > 0 
+begin
+print a
+end
+else
+begin
+print b
+end
+
+for i=1 to i<5 i=i+1
+begin
+print i
+end
+
+
+while a > 9
+begin
+let a = a-1
+print a
+end
+
+end
